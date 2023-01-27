@@ -17,7 +17,6 @@ function plusMinus(arr) {
         if (element === 0) {
             zero++
         }
-        
     }
     let positiveRatio = (positive/(arr.length)).toFixed(6)
     let negativeRatio = (negative/(arr.length)).toFixed(6)
